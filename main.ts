@@ -7,4 +7,8 @@ input.onButtonPressed(Button.A, function () {
         . . . # .
         . . . . .
         `).showImage(0)
+    doSomething()
 })
+function doSomething () {
+	
+}
