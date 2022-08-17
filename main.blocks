@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="D;laP[ru9-(%P;th(8SZ">list</variable><variable id="YTa{n(aIIcB,Ku1KFM_!">jkljkl</variable><variable id="XJh5B1`M+xzq!iRFAs|9">myImage</variable><variable id="`KW_B}kRm:$bqMbWlE?o">text list</variable></variables><block type="device_button_event" id="bp`+Xb=t^nDlbP0bu-=L" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_start_melody" id="p=ap+C1r7NBz|AD93j@["><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="Zza7aV=;GbhzJ[?(R1Qz"><field name="melody">Melodies.Dadadadum</field></block></value><next><block type="device_show_image_offset" id="5zFDa}w}rQ(D@=am?JCI"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="device_build_image" id="G1NZRzXX+kGJpffJ.G:]"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # # . . 
+        . . . # . 
+        . . . . .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="!ckCVE:vkk^g$l+nx1x}"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="4EHy?Zu4*y4w,yJ`/;T4"><field name="NUM">400</field></shadow></value></block></next></block></statement></block></xml>
